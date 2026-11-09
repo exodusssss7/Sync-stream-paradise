@@ -2,7 +2,10 @@
 
 A simple, stable watch party. Create a room, share the code, and watch in sync with friends — no accounts, no fuss.
 
-**Live demo:** https://syncstream-paradise.onrender.com
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://syncstream-party-app.onrender.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Node](https://img.shields.io/badge/Node-20-green)
+
+
+**Live demo:** https://syncstream-party-app.onrender.com
 
 ## Features
 
